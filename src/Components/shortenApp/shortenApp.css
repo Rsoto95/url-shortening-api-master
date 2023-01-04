@@ -1,0 +1,21 @@
+.wholeShortenApp {
+  background-color: purple;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 10rem;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.wholeShortenApp input {
+  height: 40%;
+  width: 70%;
+  border-radius: 7px;
+}
+.wholeShortenApp button{
+    height: 40%;
+    width: 20%;
+    border-radius: 7px;
+}

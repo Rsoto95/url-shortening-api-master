@@ -1,0 +1,23 @@
+.wholeHeader {
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.headerLeftSide {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
+.HeaderRightSide {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
+.logo {
+  width: 14rem;
+  height: 2.5rem;
+}
